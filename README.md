@@ -18,6 +18,5 @@ Each solution is organized by the problem number and name for easy navigation. F
 Feel free to fork this repository, add your solutions, or optimize existing ones and submit a pull request!
 
 # License
-This project is licensed under the MIT License - see the [LICENSE]
-(LICENSE) file for details.
+This project is licensed under the MIT License.
 
